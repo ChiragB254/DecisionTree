@@ -60,4 +60,4 @@ For questions, feedback, or collaborations, feel free to reach out!
 
 ---
 
-Feel free to customize this template according to your needs, and don't forget to replace placeholders like `[<repository_url>](https://github.com/ChiragB254/DecisionTree)` with the actual links.
+Feel free to customize this template according to your needs, and don't forget to replace placeholders like `<repository_url>` with the actual links.
